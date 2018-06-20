@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529494789 source:e:\github\output_string\string_output\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
